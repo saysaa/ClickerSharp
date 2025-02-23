@@ -1,0 +1,5 @@
+C:\Users\grima\Desktop\ClickerSharp New.exe
+C:\Users\grima\Desktop\ClickerSharp New.dll
+C:\Users\grima\Desktop\ClickerSharp New.deps.json
+C:\Users\grima\Desktop\ClickerSharp New.runtimeconfig.json
+C:\Users\grima\Desktop\ClickerSharp New.pdb

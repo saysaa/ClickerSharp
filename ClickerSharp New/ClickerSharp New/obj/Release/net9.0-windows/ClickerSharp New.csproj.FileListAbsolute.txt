@@ -1,0 +1,17 @@
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\bin\Release\net9.0-windows\ClickerSharp New.exe
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\bin\Release\net9.0-windows\ClickerSharp New.deps.json
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\bin\Release\net9.0-windows\ClickerSharp New.runtimeconfig.json
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\bin\Release\net9.0-windows\ClickerSharp New.dll
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\bin\Release\net9.0-windows\ClickerSharp New.pdb
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp_New.Form1.resources
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp_New.Properties.Resources.resources
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.csproj.GenerateResource.cache
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.AssemblyInfoInputs.cache
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.AssemblyInfo.cs
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.csproj.CoreCompileInputs.cache
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.dll
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\refint\ClickerSharp New.dll
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.pdb
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ClickerSharp New.genruntimeconfig.cache
+C:\Users\grima\Desktop\ClickerSharp New\ClickerSharp New\obj\Release\net9.0-windows\ref\ClickerSharp New.dll
